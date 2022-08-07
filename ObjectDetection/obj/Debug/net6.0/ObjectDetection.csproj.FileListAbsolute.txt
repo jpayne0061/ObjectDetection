@@ -1,0 +1,5 @@
+C:\Users\35132\source\repos\ObjectDetection\ObjectDetection\obj\Debug\net6.0\ObjectDetection.csproj.AssemblyReference.cache
+C:\Users\35132\source\repos\ObjectDetection\ObjectDetection\obj\Debug\net6.0\ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35132\source\repos\ObjectDetection\ObjectDetection\obj\Debug\net6.0\ObjectDetection.AssemblyInfoInputs.cache
+C:\Users\35132\source\repos\ObjectDetection\ObjectDetection\obj\Debug\net6.0\ObjectDetection.AssemblyInfo.cs
+C:\Users\35132\source\repos\ObjectDetection\ObjectDetection\obj\Debug\net6.0\ObjectDetection.csproj.CoreCompileInputs.cache
